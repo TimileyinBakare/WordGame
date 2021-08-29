@@ -1,0 +1,11 @@
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\bin\Debug\netcoreapp2.1\WordGames.deps.json
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\bin\Debug\netcoreapp2.1\WordGames.runtimeconfig.json
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\bin\Debug\netcoreapp2.1\WordGames.runtimeconfig.dev.json
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\bin\Debug\netcoreapp2.1\WordGames.dll
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\bin\Debug\netcoreapp2.1\WordGames.pdb
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\obj\Debug\netcoreapp2.1\WordGames.csprojAssemblyReference.cache
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\obj\Debug\netcoreapp2.1\WordGames.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\obj\Debug\netcoreapp2.1\WordGames.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\obj\Debug\netcoreapp2.1\WordGames.AssemblyInfo.cs
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\obj\Debug\netcoreapp2.1\WordGames.dll
+C:\Users\Dell Latitude E7270\source\repos\WordGames\WordGames\obj\Debug\netcoreapp2.1\WordGames.pdb
